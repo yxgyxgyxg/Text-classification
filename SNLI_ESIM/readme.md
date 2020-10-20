@@ -8,6 +8,7 @@ LSTM on IMDB datasets
 
 
 Running Instructions:
+
 0) 下载数据集 SNLI_1.0
 1) 读取数据、建立字典 make_dictionary()函数 in 'preprocessing/'
 2) 建立glove嵌入层embedding   build_embedding_matrix()函数 in 'models/'
